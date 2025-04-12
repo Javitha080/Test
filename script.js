@@ -1,3 +1,3 @@
 function f1(){
-  alert("Helow World 🌎!");
+  alert("Helow World!");
 }
