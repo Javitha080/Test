@@ -3,6 +3,6 @@ function f1(){
 }
 function f2(){
 
-  document.getElementById("btn").style.backgroundcolor = "red";
+  document.getElementById("btn").style.backgroundColor = "red";
   
 }
