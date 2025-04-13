@@ -1,3 +1,3 @@
-function start(){
-  alert("HI😁");
+function start(event){
+  alert(event.key);
 } 
