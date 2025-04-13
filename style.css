@@ -21,4 +21,5 @@ margin-top: 40px;
   position: absolute;
   margin-top: 380px;
   margin-left: 1150px;
+  transform: scale(-1);
 }
