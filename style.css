@@ -11,5 +11,8 @@ margin-top: 40px;
 
 }
 .knight{
-  
+  height: 200px;
+  position: absolute;
+  margin-top: 380px;
+  margin-left: 80px;
 }
