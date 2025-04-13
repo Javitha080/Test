@@ -2,3 +2,11 @@
 background-image: url(”Background.jpg");
 background-size: 100%;
 }
+.time{
+  font-family: arial;
+font-size: 30px;
+font-weight: bold;
+margin-top: 40px;
+  margin-left: 550px;
+
+}
