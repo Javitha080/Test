@@ -1,19 +1,4 @@
-.a{
-
-background-color: #3e6ae1;
-
-color:white;
-
-width: 200px;
-
-height: 30px;
-
-border:none;
-
-font-size: 16px;
-font-weight: bold;
-
-
-border-radius: 6px;
-
+.bg{
+background-image: url(”");
+background-size: 100px
 }
