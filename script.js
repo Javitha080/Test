@@ -6,9 +6,14 @@ function start(event) {
         alert("Attack"); 
     }
 }
+
+var walkImage = 1;
+
 function walk(){
     setInterval(()=>{
-document.setElementById("zombie").src = "Walk2.png";
+
+        walkImage++
+document.setElementById("zombie").src = "Walk"+walkImage".png";
         
     },150);
 }
