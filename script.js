@@ -1,8 +1,11 @@
 function start(event) {
     if (event.key === "Enter") {
-        alert("Run"); 
+        walk(); 
     }
     if (event.key === " ") {
         alert("Attack"); 
     }
+}
+function walk(){
+    alert("Zombie walk ok")
 }
