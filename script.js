@@ -7,5 +7,8 @@ function start(event) {
     }
 }
 function walk(){
-    setInterval()=>{};
+    setInterval(()=>{
+document.setElementById("zombie").src = "Walk2.png";
+        
+    },150);
 }
