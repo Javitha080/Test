@@ -1,8 +1,8 @@
 function start(event) {
-    if (event.key === "Enter") {
+    if (event.key == "Enter") {
         walk(); 
     }
-    if (event.key === " ") {
+    if (event.key == " ") {
         alert("Attack"); 
     }
 }
