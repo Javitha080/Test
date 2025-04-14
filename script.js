@@ -7,5 +7,5 @@ function start(event) {
     }
 }
 function walk(){
-    alert("Zombie walk ok");
+    setInterval();
 }
